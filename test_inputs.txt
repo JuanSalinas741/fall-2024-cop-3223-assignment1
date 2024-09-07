@@ -1,0 +1,63 @@
+Test Case 1:
+Inputs:
+Enter coordinates for point 1 (x1 y1): 0 0
+Enter coordinates for point 2 (x2 y2): 3 4
+Expected Output:
+Point #1 entered: x1 = 0; y1 = 0
+Point #2 entered: x2 = 3; y2 = 4
+The distance between the two points is 5.000000
+The perimeter is 15.707963
+The area is 19.634954
+The width is 3.000000
+The height is 4.000000
+
+Test Case 2:
+Inputs:
+Enter coordinates for point 1 (x1 y1): 1000 1000
+Enter coordinates for point 2 (x2 y2): 2000 2000
+Expected Output:
+Point #1 entered: x1 = 1000; y1 = 1000
+Point #2 entered: x2 = 2000; y2 = 2000
+The distance between the two points is 1414.213562
+The perimeter is 4442.879185
+The area is 1570795.000000
+The width is 1414.213562
+The height is 1414.213562
+
+Test Case 3:
+Inputs:
+Enter coordinates for point 1 (x1 y1): 1 1
+Enter coordinates for point 2 (x2 y2): 4 5
+Expected Output:
+Point #1 entered: x1 = 1; y1 = 1
+Point #2 entered: x2 = 4; y2 = 5
+The distance between the two points is 5.000000
+The perimeter is 15.707950
+The area is 19.634937
+The width is 3.000000
+The height is 4.000000
+
+Test Case 4:
+Inputs:
+Enter coordinates for point 1 (x1 y1): 0 0
+Enter coordinates for point 2 (x2 y2): 0 10
+Expected Output:
+Point #1 entered: x1 = 0; y1 = 0
+Point #2 entered: x2 = 0; y2 = 10
+The distance between the two points is 10.000000
+The perimeter is 31.415900
+The area is 78.539750
+The width is 0.000000
+The height is 10.000000
+
+Inputs:
+Enter coordinates for point 1 (x1 y1): -1000 -1000
+Enter coordinates for point 2 (x2 y2): -2000 -2000
+Expected Output:
+Point #1 entered: x1 = -1000; y1 = -1000
+Point #2 entered: x2 = -2000; y2 = -2000
+The distance between the two points is 1414.213562
+The perimeter is 4442.879185
+The area is 1570795.000000
+The width is 1000.000000
+The height is 1000.000000
